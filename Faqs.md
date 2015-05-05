@@ -33,7 +33,7 @@ permalink: /Faqs.htm
         <br />
         <a name="uwp"></a>
         <h2 class="faq-h2">Universal Windows Platform (UWP) Apps</h2>
-        <p class="bold"><em>I get "You need to enable Developer Mode" on my Vistual Studio machine.  What do I do?</em></p>
+        <p class="bold"><em>I get "You need to enable Developer Mode" on my Visual Studio machine.  What do I do?</em></p>
         <p>In a later builds of windows there will be a settings page "For developers" that will allow you to control this.  Until then you can work around this using the Group Policy editor. </br>
         <ol>
         <li>Run Gpedit.msc </li>
